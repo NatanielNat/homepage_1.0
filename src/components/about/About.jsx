@@ -39,7 +39,7 @@ const About = () => {
     </article>
   </div>
 
-  <p>* I have to learn a lot more to be proffesional or atleast advanced but im willing to learn new and hard stuff just so i can make any project look clean and different from others</p>
+  <p>* I have to learn a lot more to be professional or atleast advanced but im willing to learn new and hard stuff just so i can make any project look clean and different from others</p>
   <p>* I can do any task or work if it doesn't take many years of experience and knowledge</p>
   <p>* Im still learning,but im really good at finding answers in internet to solve my codings problems or tasks that i never solved before</p>
     <a href="#contact" className="btn btn--primary"> Let's Talk</a>
