@@ -65,6 +65,13 @@ const Experience = () => {
               <small className="text--light"> Beginner</small>
               </div>
             </article>
+            <article className="experience__details">
+              <BsFillBookmarkCheckFill className="experience__details--icon" />
+              <div>
+              <h4>SQL</h4>
+              <small className="text--light"> Beginner</small>
+              </div>
+            </article>
           </div>
         </div>
       </div>

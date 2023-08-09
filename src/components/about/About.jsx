@@ -23,7 +23,7 @@ const About = () => {
     <article className="about__card">
       <TbAwardFilled className="about__icon"/>
     <h5>Experience</h5>
-    <small>7+ Months Of Practice And Learning</small>
+    <small>9+ Months Of Practice And Learning</small>
     </article>
 
     <article className="about__card">
