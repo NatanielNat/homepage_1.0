@@ -72,6 +72,13 @@ const Experience = () => {
               <small className="text--light"> Beginner</small>
               </div>
             </article>
+            <article className="experience__details">
+              <BsFillBookmarkCheckFill className="experience__details--icon" />
+              <div>
+              <h4>Docker</h4>
+              <small className="text--light"> Intermediate</small>
+              </div>
+            </article>
           </div>
         </div>
       </div>
